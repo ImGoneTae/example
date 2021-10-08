@@ -7,6 +7,7 @@
     "serve": "vite preview"
   },
   "dependencies": {
+    "@vitjs/vit": "^0.6.2",
     "react": "^17.0.0",
     "react-dom": "^17.0.0",
     "wouter": "^2.8.0-alpha.1"
